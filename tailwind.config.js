@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       screens:{
-        'pm': {'max': '380px'}, 
+        'sm': {'max': '380px'}, 
       }
     },
   },
