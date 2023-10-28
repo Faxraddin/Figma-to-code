@@ -33,11 +33,11 @@ const MainPage = () => {
               </div>
             </div>
 
-            <div style={{borderRadius:'10px',backgroundColor:'#FAFAFA'}} className='w-full p-10 pm:p-0 flex items-center justify-center bg-rounded relative top-[130px]'>
+            <div style={{borderRadius:'10px',backgroundColor:'#FAFAFA'}} className='w-full p-10 sm:p-0 flex items-center justify-center bg-rounded relative top-[130px]'>
               <div className='flex justify-between gap-10 w-full sm:flex-col-reverse'>
                 <div className='h-full flex flex-col justify-between gap-10'>
                   <img className='w-[575px] h-[591px] sm:w-[95%] sm:h-[381px]'  src='/image 4.png'/>
-                  <div style={{borderRadius:'10px',backgroundColor:'white'}}  className='p-[24px] w-[575px] h-[186px] pm:hidden'>
+                  <div style={{borderRadius:'10px',backgroundColor:'white'}}  className='p-[24px] w-[575px] h-[186px] sm:hidden'>
                     <img className='w-[237px] h-[48px]' src='/ava.png' />
                     <p className='text-[16px]'>“As soon as the Clarifions arrived I put one in my bedroom. This was late in the afternoon. When I went to the bedroom in the evening it smelled clean. When I went to bed I felt I could breathe better. Wonderful.”</p>
                   </div>
